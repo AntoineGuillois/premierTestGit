@@ -6,7 +6,7 @@ public class ANtoine {
 	public ANtoine() {
 		super();
 		System.out.println("putain !!!!!! vivement 17h  ");
-		System.out.println("COUCOUUUUUU  ");
+		System.out.println("COUCOUUUUUU   ");
 		
 	}
 	protected String nom;
